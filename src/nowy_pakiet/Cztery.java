@@ -3,7 +3,9 @@ package nowy_pakiet;
 public class Cztery {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Wersja_trzecia obiekt = new Wersja_trzecia(null, null);
+		obiekt.setImie("Ala");
+		obiekt.setNazwisko("Kowalska");
 
 	}
 
