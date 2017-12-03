@@ -8,6 +8,7 @@ public class Hello {
 		System.out.println("Druga wersja");
 		System.out.println("Trzecia wersja");
 		System.out.println("Czwarta wersja");
+		System.out.println("Piąta wersja");
 	}
 
 }
